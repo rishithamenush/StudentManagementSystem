@@ -1,15 +1,4 @@
-# Django Student Management System (beta)
-
-This is a Simple Student Management System Developed for Educational Purpose using Python (Django).
-Feel free to make changes based on your requirements.
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
-I've created this project while learnging Django and followed tutorial series from **SuperCoders**
-
-And if you like this project then ADD a STAR ⭐️ to this project 👆
-
-## Features of this Project
+# Python base Student Management System
 
 ### A. Admin Users Can
 
@@ -39,39 +28,9 @@ And if you like this project then ADD a STAR ⭐️ to this project 👆
 4. Apply for Leave
 5. Send Feedback to HOD
 
-## Support Developer
-
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟 to this 👆 Repository
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details.
-
-## How to Install and Run this project?
-
-### Pre-Requisites:
-
-1. Install Git Version Control
-   [ https://git-scm.com/ ]
-
-2. Install Python Latest Version
-   [ https://www.python.org/downloads/ ]
-
-3. Install Pip (Package Manager)
-   [ https://pip.pypa.io/en/stable/installing/ ]
-
-_Alternative to Pip is Homebrew_
-
 ### Installation
 
-**1. Create a Folder where you want to save the project**
-
-**2. Create a Virtual Environment and Activate**
+**1. Create a Virtual Environment and Activate**
 
 Install Virtual Environment First
 
@@ -113,13 +72,13 @@ Then, Enter the project
 $  cd django-student-management-system
 ```
 
-**4. Install Requirements from 'requirements.txt'**
+**2. Install Requirements from 'requirements.txt'**
 
 ```python
 $  pip install -r requirements.txt
 ```
 
-**5. Add the hosts**
+**3. Add the hosts**
 
 - Got to settings.py file
 - Then, On allowed hosts, Add [‘*’].
@@ -130,7 +89,7 @@ ALLOWED_HOSTS = ['*']
 
 _No need to change on Mac._
 
-**6. Now Run Server**
+**4. Now Run Server**
 
 Command for PC:
 
@@ -144,7 +103,7 @@ Command for Mac:
 $ python3 manage.py runserver
 ```
 
-**7. Login Credentials**
+**5. Login Credentials**
 
 Create Super User (HOD)
 
