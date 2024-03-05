@@ -116,13 +116,13 @@ Then Add Email, Username and Password
 **or Use Default Credentials**
 
 _For HOD /SuperAdmin_
-Email: admin@gmail.com
-Password: admin
+Email: roAdmin@gmail.com
+Password: roAdmin
 
 _For Staff_
-Email: staff@gmail.com
-Password: staff
+Email: roStaff@gmail.com
+Password: roStaff
 
 _For Student_
-Email: student@gmail.com
-Password: student
+Email: roStudent@gmail.com
+Password: roStudent
